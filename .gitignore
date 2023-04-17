@@ -1,0 +1,7 @@
+checkpoints/*/
+old_checkpoints/
+question1_runs/
+question2_runs/
+old_runs/
+**/__pycache__/
+.vscode/
